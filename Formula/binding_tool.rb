@@ -1,7 +1,6 @@
 class BindingTool < Formula
   desc "Generate Kubernetes service bindings for use with Cloud Native Buildpacks"
   homepage "https://github.com/dmikusa/binding-tool"
-  version "1.23.0"
   if OS.mac?
     if Hardware::CPU.arm?
       url "https://github.com/dmikusa/binding-tool/releases/download/v1.23.0/binding_tool-aarch64-apple-darwin.tar.xz"
