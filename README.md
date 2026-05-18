@@ -1,4 +1,6 @@
-# Dmikusa Tap
+# Homebrew Tap For Tools by Daniel Mikusa
+
+This repo is a collection of personal tools that I publish.
 
 ## How do I install these formulae?
 
